@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BedNet", "BedNet\BedNet.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RakNetAgain", "..\RakNetAgain\RakNetAgain\RakNetAgain.csproj", "{4CDC6697-EE75-4F45-9F03-10348A4513D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BedNet-Protocol", "BedNet-Protocol\BedNet-Protocol.csproj", "{DF2A53F9-C7C1-48F6-9B8D-2DDE49E90B85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BedNet-Protocol", "BedNet-Protocol\BedNetProtocol.csproj", "{DF2A53F9-C7C1-48F6-9B8D-2DDE49E90B85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

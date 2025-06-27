@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BedNet-Protocol\BedNet-Protocol.csproj" />
+    <ProjectReference Include="..\BedNet-Protocol\BedNetProtocol.csproj" />
     <ProjectReference Include="..\..\RakNetAgain\RakNetAgain\RakNetAgain.csproj" />
   </ItemGroup>
 
