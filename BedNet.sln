@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BedNet", "BedNet\BedNet.csproj", "{C8675587-2F86-47AE-96EE-2D5CFCE35A39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RakNetAgain", "..\RakNetAgain\RakNetAgain\RakNetAgain.csproj", "{4CDC6697-EE75-4F45-9F03-10348A4513D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BedNet-Protocol", "BedNet-Protocol\BedNet-Protocol.csproj", "{DF2A53F9-C7C1-48F6-9B8D-2DDE49E90B85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8675587-2F86-47AE-96EE-2D5CFCE35A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8675587-2F86-47AE-96EE-2D5CFCE35A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8675587-2F86-47AE-96EE-2D5CFCE35A39}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C8675587-2F86-47AE-96EE-2D5CFCE35A39}.Debug|x64.Build.0 = Debug|Any CPU
+		{C8675587-2F86-47AE-96EE-2D5CFCE35A39}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C8675587-2F86-47AE-96EE-2D5CFCE35A39}.Debug|x86.Build.0 = Debug|Any CPU
+		{C8675587-2F86-47AE-96EE-2D5CFCE35A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8675587-2F86-47AE-96EE-2D5CFCE35A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8675587-2F86-47AE-96EE-2D5CFCE35A39}.Release|x64.ActiveCfg = Release|Any CPU
+		{C8675587-2F86-47AE-96EE-2D5CFCE35A39}.Release|x64.Build.0 = Release|Any CPU
+		{C8675587-2F86-47AE-96EE-2D5CFCE35A39}.Release|x86.ActiveCfg = Release|Any CPU
+		{C8675587-2F86-47AE-96EE-2D5CFCE35A39}.Release|x86.Build.0 = Release|Any CPU
+		{4CDC6697-EE75-4F45-9F03-10348A4513D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDC6697-EE75-4F45-9F03-10348A4513D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDC6697-EE75-4F45-9F03-10348A4513D8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4CDC6697-EE75-4F45-9F03-10348A4513D8}.Debug|x64.Build.0 = Debug|Any CPU
+		{4CDC6697-EE75-4F45-9F03-10348A4513D8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4CDC6697-EE75-4F45-9F03-10348A4513D8}.Debug|x86.Build.0 = Debug|Any CPU
+		{4CDC6697-EE75-4F45-9F03-10348A4513D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDC6697-EE75-4F45-9F03-10348A4513D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDC6697-EE75-4F45-9F03-10348A4513D8}.Release|x64.ActiveCfg = Release|Any CPU
+		{4CDC6697-EE75-4F45-9F03-10348A4513D8}.Release|x64.Build.0 = Release|Any CPU
+		{4CDC6697-EE75-4F45-9F03-10348A4513D8}.Release|x86.ActiveCfg = Release|Any CPU
+		{4CDC6697-EE75-4F45-9F03-10348A4513D8}.Release|x86.Build.0 = Release|Any CPU
+		{DF2A53F9-C7C1-48F6-9B8D-2DDE49E90B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF2A53F9-C7C1-48F6-9B8D-2DDE49E90B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF2A53F9-C7C1-48F6-9B8D-2DDE49E90B85}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DF2A53F9-C7C1-48F6-9B8D-2DDE49E90B85}.Debug|x64.Build.0 = Debug|Any CPU
+		{DF2A53F9-C7C1-48F6-9B8D-2DDE49E90B85}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DF2A53F9-C7C1-48F6-9B8D-2DDE49E90B85}.Debug|x86.Build.0 = Debug|Any CPU
+		{DF2A53F9-C7C1-48F6-9B8D-2DDE49E90B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF2A53F9-C7C1-48F6-9B8D-2DDE49E90B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF2A53F9-C7C1-48F6-9B8D-2DDE49E90B85}.Release|x64.ActiveCfg = Release|Any CPU
+		{DF2A53F9-C7C1-48F6-9B8D-2DDE49E90B85}.Release|x64.Build.0 = Release|Any CPU
+		{DF2A53F9-C7C1-48F6-9B8D-2DDE49E90B85}.Release|x86.ActiveCfg = Release|Any CPU
+		{DF2A53F9-C7C1-48F6-9B8D-2DDE49E90B85}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
