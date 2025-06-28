@@ -31,7 +31,7 @@ class ServerConnection {
         using BinaryWriter writer = new(stream);
 
         if (compressPackets) {
-            // TODO
+            // TODO (use DeflateStream or something)
         } else {
             writer.WritePacketBatch(packets);
         }
